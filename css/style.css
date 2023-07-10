@@ -15,4 +15,13 @@ form {
   margin: 2rem 0 4rem 0;
 }
 
+main h1 {
+  margin: 2rem 0 0.5rem 0;
+  letter-spacing: 0.2rem;
+}
+main h1 span {
+  color: hsl(0, 0%, 59%);
+  font-weight: 300;
+}
+
 /*# sourceMappingURL=style.css.map */

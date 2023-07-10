@@ -1,0 +1,11 @@
+@use "./variables" as var;
+
+main h1 {
+    margin: 2rem 0 0.5rem 0;
+    letter-spacing: 0.2rem;
+
+    span {
+        color: var.$gray;
+        font-weight: 300;
+    }
+}
