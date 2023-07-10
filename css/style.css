@@ -1,8 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@300;600;700&display=swap");
 body {
-  width: 960px;
-  margin: auto;
-  padding: 2rem 0 1rem 0;
+  margin: 4rem auto 2rem auto;
   font-size: 20px;
   font-family: "Libre Franklin", sans-serif;
 }
@@ -10,6 +8,11 @@ body {
 header, main, footer {
   display: grid;
   place-items: center;
+}
+
+form {
+  display: flex;
+  margin: 2rem 0 4rem 0;
 }
 
 /*# sourceMappingURL=style.css.map */
